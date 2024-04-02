@@ -5,7 +5,7 @@
 	              
 		                 yum update
 				            yum install nginx -y
-					           
-						    
 
-						    > make sure your have centos installed.
+> make sure your have centos installed.
+						          
+
